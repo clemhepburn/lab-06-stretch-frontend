@@ -1,8 +1,3 @@
-.StuffItem {
-  background-color:  ;
-  height: 60px;
-  padding: 10px;
-}
 
 .StuffItem h2 {
   font-family: 'Times New Roman', Times, serif;
@@ -14,4 +9,48 @@
 
 li {
   background-color: thistle;
+}
+
+.lamp {
+  background-color: rgb(224, 195, 142);
+}
+
+.radio {
+  background-color: saddlebrown;
+}
+
+.bouquet {
+  background-color: lavenderblush;
+}
+
+.books {
+  background-color: lightseagreen;
+}
+
+.poem {
+  background-color: rgb(135, 185, 204);
+}
+
+.rug {
+  background-color: antiquewhite;
+}
+
+.blanket {
+  background-color: teal;
+}
+
+.curtain {
+  background-color: floralwhite;
+}
+
+.desk {
+  background-color: rgb(110, 89, 61);
+}
+
+li {
+  background-color: greenyellow;
+}
+
+.computer {
+  background-color: rgb(158, 158, 158);
 }

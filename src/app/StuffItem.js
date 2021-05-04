@@ -7,7 +7,7 @@ class StuffItem extends Component {
 
     return (
       <li className="StuffItem">
-        <h2>{stuff.name}</h2>
+        <h2 className={stuff.name}>{stuff.name}</h2>
       </li>
     );
 
