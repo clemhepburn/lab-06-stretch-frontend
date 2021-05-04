@@ -1,8 +1,43 @@
+body {
+  justify-content: center;
+  background: rgb(215, 235, 247);
+}
+
 .App {
   display: grid;
+  justify-content: center;
+  width: 100vw;
+  height: 100vh;
+  overflow: auto;
 }
 
 /* TODO: remove **/
 img {
   margin: 50px auto;
+}
+
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-size: 144px;
+
+  color: rgb(94, 117, 117);
+  padding-left: 50px;
+}
+
+button {
+  text-decoration: none;
+  color:rgb(149, 179, 179);
+  font-style: italic;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 144px;
+
+}
+
+button:hover {
+  color:rgb(179, 149, 149)
 }

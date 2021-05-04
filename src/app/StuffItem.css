@@ -1,0 +1,17 @@
+.StuffItem {
+  background-color:  ;
+  height: 60px;
+  padding: 10px;
+}
+
+.StuffItem h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 36px;
+  margin: 0;
+}
+
+li {
+  background-color: thistle;
+}

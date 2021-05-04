@@ -1,0 +1,16 @@
+.Stuff {
+  justify-content: center;
+  width: 80%;
+  padding-bottom: 10vh;
+}
+
+ul {
+  display: grid;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+  grid-gap: 30px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  align-items: center;
+}
+
