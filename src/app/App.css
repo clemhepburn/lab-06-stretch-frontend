@@ -41,3 +41,11 @@ button {
 button:hover {
   color:rgb(179, 149, 149)
 }
+
+h3 {
+  margin-left: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-size: 40px;
+  color:rgb(94, 117, 117)
+}

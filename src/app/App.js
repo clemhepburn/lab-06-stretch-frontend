@@ -30,7 +30,7 @@ class App extends Component {
   
         <h1>welcome to my room. please see my <button onClick={() => this.setState({ showing: !showing })}>stuff</button></h1>
         { showing
-          ? <div>
+          ? <div><h3>in my room:</h3>
             <Stuff stuff={stuff}/>
           </div>
           : null
